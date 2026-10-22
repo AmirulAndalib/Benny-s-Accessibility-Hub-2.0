@@ -10,7 +10,7 @@
   "author": "Benny's Software",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^40.4.1",
+    "electron": "^45.0.0",
     "electron-builder": "^26.7.0"
   },
   "dependencies": {
